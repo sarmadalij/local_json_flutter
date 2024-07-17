@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Sarmad Ali",
+    "age": "23",
+    "height": "172",
+    "gender": "male",
+    "hair_color": "black"
+  },
+  {
+    "name": "Uzair Ali",
+    "age": "22",
+    "height": "162",
+    "gender": "male",
+    "hair_color": "Brown"
+  },
+  {
+    "name": "Hamza Khan",
+    "age": "22",
+    "height": "182",
+    "gender": "male",
+    "hair_color": "Grey"
+  },
+  {
+    "name": "Shahzaib Khan",
+    "age": "26",
+    "height": "175",
+    "gender": "male",
+    "hair_color": "Black"
+  },
+  {
+    "name": "Jawad Shah",
+    "age": "24",
+    "height": "165",
+    "gender": "male",
+    "hair_color": "Black Brown"
+  },
+  {
+  "name": "Aslam Khan",
+  "age": "21",
+  "height": "172",
+  "gender": "male",
+  "hair_color": "Black"
+}
+]
